@@ -1,6 +1,6 @@
 <h1 align = "center"> Rishabh Bhan Singh </h1>
 
-<p align="center"><b> Video Bot is a Music powerfull bot for playing music (Video or Audio) on telegram voice chat groups. </b></p>
+<p align="center"><b> Hello, I'm Rishabh Bhan Singh, a B.Pharm student currently exploring the fascinating world of pharmaceuticals. Welcome! Here, you'll discover a glimpse into my life. </b></p>
 
 
 <p align="center"><a href="https://t.me/lisaSupportChat"><img src="https://te.legra.ph/file/bb57ccbd4be51218fccb6.jpg"></a></p>
